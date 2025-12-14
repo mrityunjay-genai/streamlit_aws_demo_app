@@ -25,7 +25,7 @@ git clone "Your-repository"
 cd <your_repo_folder>
 ```
 ```bash
-python3 -m my_env venv
+python3 -m  venv my_env
 ```
 ```bash
 source my_env/bin/activate
