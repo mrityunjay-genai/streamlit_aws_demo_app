@@ -17,9 +17,7 @@ sudo apt install git curl unzip tar make sudo vim wget -y
 ```bash
 sudo apt install python3-pip python3-venv -y
 ```
-```bash
-sudo apt install python3-pip
-```
+
 ```bash
 git clone "Your-repository"
 ```
