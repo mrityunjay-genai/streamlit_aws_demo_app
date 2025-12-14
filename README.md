@@ -11,27 +11,24 @@ sudo apt update
 ```
 
 ```bash
-sudo apt-get update
-```
-
-```bash
-sudo apt upgrade -y
-```
-
-```bash
 sudo apt install git curl unzip tar make sudo vim wget -y
 ```
 
 ```bash
-sudo apt install git curl unzip tar make sudo vim wget -y
+sudo apt install python3-pip python3-venv -y
 ```
 
 ```bash
 git clone "Your-repository"
 ```
-
 ```bash
-sudo apt install python3-pip
+cd <your_repo_folder>
+```
+```bash
+python3 -m  venv my_env
+```
+```bash
+source my_env/bin/activate
 ```
 
 ```bash
