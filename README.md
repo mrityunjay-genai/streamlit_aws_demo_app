@@ -25,14 +25,19 @@ sudo apt install git curl unzip tar make sudo vim wget -y
 ```bash
 sudo apt install git curl unzip tar make sudo vim wget -y
 ```
-
-```bash
-git clone "Your-repository"
-```
-
 ```bash
 sudo apt install python3-pip
 ```
+```bash
+git clone "Your-repository"
+```
+```bash
+cd <your_repo_folder>
+python3 -m venv venv
+source venv/bin/activate
+
+```
+
 
 ```bash
 pip3 install -r requirements.txt
