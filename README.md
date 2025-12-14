@@ -9,6 +9,12 @@
 ```bash
 sudo apt update
 ```
+```bash
+sudo apt-get update
+```
+```bash
+sudo apt upgrade -y
+```
 
 ```bash
 sudo apt install git curl unzip tar make sudo vim wget -y
