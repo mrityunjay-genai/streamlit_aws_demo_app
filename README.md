@@ -35,10 +35,10 @@ git clone "Your-repository"
 cd <your_repo_folder>
 ```
 ```bash
-python3 -m venv venv
+python3 -m my_env venv
 ```
 ```bash
-source venv/bin/activate
+source my_env/bin/activate
 ```
 
 ```bash
