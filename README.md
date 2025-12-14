@@ -32,6 +32,7 @@ sudo apt install python3-pip
 git clone "Your-repository"
 ```
 ```bash
+sudo apt install python3-pip python3-venv -y
 cd <your_repo_folder>
 python3 -m venv venv
 source venv/bin/activate
